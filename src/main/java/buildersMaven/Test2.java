@@ -3,9 +3,7 @@ package buildersMaven;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class Test1 {
-
-
+public class Test2 {
 	
 	@BeforeMethod
 	public void beforeMethod() {
@@ -36,5 +34,6 @@ public class Test1 {
 		System.out.println("Hello m4 Test");
 		
 	}
+
 
 }
